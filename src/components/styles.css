@@ -51,21 +51,21 @@
   }
   
   .title {
-    font-size: 30px;
+    font-size: 20px;
     color: red;
     font-weight: bold;
-    margin-top: 50px;
+    margin-top: 20px;
   }
   
   .filter-title{
-    font-size: 30px;
+    font-size: 20px;
     color: red;
     font-weight: bold;
-    margin-top: 150px;
+    margin-top: 100px;
   }
   
   .filter-button{
-    margin-top: 100px;
+    margin-top: 50px;
   }
   
   .productContainer {
