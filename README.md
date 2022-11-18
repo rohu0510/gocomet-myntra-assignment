@@ -17,4 +17,4 @@ I have implemented funcationalities like:-
       
 This website is live on the given address:-
 
-https://fanciful-buttercream-0fd364.netlify.app/
+https://rohit-myntra.netlify.app/
